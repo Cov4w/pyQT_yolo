@@ -19,4 +19,4 @@ https://github.com/Cov4w/QT_Designer
 ![image_06](images/prtj001_06.png)
 ## 6. 학습을 완료했다면 기존 주소록 코드에 추가합니다.
 ### 결과물 빈 공간은 파란색 주차된 공간은 빨간색으로 표시됩니다.
-![image_07](images/prtj001_07.png)
+![image_07](images/prtj001_08.png)
